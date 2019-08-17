@@ -93,3 +93,10 @@ ranks:
       - "&6Grant them this rank!"
       - "&6You're currently making &e%target% &6a cool guy."
     permission: "custom.permission"
+default-format:
+item: "NETHER_STAR"
+name: "&4&lH Y D R A"
+lore:
+    - "&cFormaras parte de Hydra"
+permission: "rankgrantplus.grant"
+
